@@ -11,3 +11,4 @@
       I had to focus on schooling and never got the time to truly sit down and learn how to code. Now after the pandemic, 
       a lot of my usual activities that took up my time are gone, giving me more time to learn development and web design.
       Which has led me to today, learning JavaScript, HTML5, and TypeScript.
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Sccs_boo)
