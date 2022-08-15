@@ -1,6 +1,6 @@
 ## 👋 Hiya! The name is Sydney Clarke pleasure to meet you! 
 ### Some Info About Me:	
-      I am a 16yr old, high school student, living in the US. 
+      I am a 17yr old, high school student, living in the US. 
       Currently learning JavaScript and TypeScript in hopes of opening new doors for me.
       Fav Animal-  Sloths
       Fav Car-  Mustangs and Mini Coopers
